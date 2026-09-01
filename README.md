@@ -1,5 +1,5 @@
-█ emxhsctracker 1.0
-EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT
+█ **emxhsctracker 1.0** <br>
+***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT***  <br>
 ________________________________________________________________________
 
 ■ NOT READY YET , NOT RELEASED YET .. A simple, easy-to-use HSC Tracker :-)
