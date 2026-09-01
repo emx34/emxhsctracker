@@ -4,4 +4,5 @@ ________________________________________________________________________
 
 ■ NOT READY YET , NOT RELEASED YET .. A simple, easy-to-use HSC Tracker :-)
 
-<img width="705" height="643" alt="hsc_tracker" src="https://github.com/user-attachments/assets/26e160b7-0bde-4ec8-9f09-a7e75b84bdac" />
+<img width="755" height="1044" alt="hsc_tracker" src="https://github.com/user-attachments/assets/1b83e41d-3839-4944-a694-784d8599e7d4" />
+
