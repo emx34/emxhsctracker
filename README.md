@@ -1,4 +1,4 @@
-█ **emxhsctracker 1.0** <br> <br>
+█ **emxhsctracker 0.1** <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT***  <br>
 ________________________________________________________________________
 
