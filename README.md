@@ -1,8 +1,8 @@
-█ **emxhsctracker 0.1** <br> <br>
+█ **emxhsctracker 0.1 alpha TEST verison** <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT***  <br>
 ________________________________________________________________________
 
-■ NOT READY YET , NOT RELEASED YET .. A simple, easy-to-use HSC Tracker :-) <br> <br>
+■ **A simple, easy-to-use HSC Tracker** <br> <br>
 This HSC tracker, unlike the original HSC tracker, allows you to hear the instrument sound corresponding to a note as you press keys on the keyboard while writing notes, 
 which is a very important point. In the original HSC tracker, when writing notes, you only enter hexadecimal values ​​for patterns, but you don't hear the sound. In the original HSC tracker, 
 the sound is only heard when you press PLAY after entering numbers, and you can't experiment with sounds until that point. In my HSC-compatible tracker project, 
