@@ -4,6 +4,13 @@ Currently, there are issues with sound tone differences in the tracker player co
 Bug fixes are needed, lots of checks need to be done, a lot of things are needed = TIME!
 <br><br>
 F1 = HELP
+<br><br>
+~ usage syntax options:
+<br><br>
+hsctrak.exe   <ENTER><br>
+or <br>
+hsctrak.exe hscmusic.hsc <ENTER><br><br>
+
 ________________________________________________________________________
 
 ■ **A simple, easy-to-use HSC Tracker** <br> <br>
