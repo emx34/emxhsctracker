@@ -2,6 +2,8 @@
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT***<br><br>
 Currently, there are issues with sound tone differences in the tracker player code compared to the original HSC player;<br>
 Bug fixes are needed, lots of checks need to be done, a lot of things are needed = TIME!
+<br><br>
+F1 = HELP
 ________________________________________________________________________
 
 ■ **A simple, easy-to-use HSC Tracker** <br> <br>
