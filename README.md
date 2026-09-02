@@ -1,7 +1,6 @@
 █ **emxhsctracker 0.1 alpha TEST verison** <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT***<br><br>
-Currently, there are issues with audio tone differences in the tracker player code;<br>
-a bug fix is ​​needed = TIME!
+Currently, there are issues with audio tone differences in the tracker player code; a bug fix is ​​needed = TIME!
 ________________________________________________________________________
 
 ■ **A simple, easy-to-use HSC Tracker** <br> <br>
