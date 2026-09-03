@@ -1,4 +1,4 @@
-█ **emxhsctracker 0.1 alpha-TEST-verison** <br> <br>
+█ **emxhsctracker 0.1 alpha-TEST-version (Download)** <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** <br><br>
 ***v1.0a almost READY. Player/Tracker ADSR+Reverb/Hall-FX restored, BUG-FIXED! Full Original compatible version***
 <br> <br>
