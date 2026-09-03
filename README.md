@@ -2,8 +2,7 @@
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** <br><br>
 ***Version 1.0a almost READY .. Player/Tracker ADSR + Reverb/Hall FX restored = BUG-FIXED!***
 <br> <br>
-Currently, there are issues with sound tone differences in the tracker player code compared to the original HSC player;<br>
-
+Currently, there are issues with sound tone differences in the tracker player code compared to the original HSC player;
 <br><br>
 F1 = HELP
 <br><br>
