@@ -1,3 +1,6 @@
+
+<img width="755" height="1044" alt="hsc_tracker" src="https://github.com/user-attachments/assets/1b83e41d-3839-4944-a694-784d8599e7d4" />
+
 █ **emxhsctracker 0.1 alpha-TEST-version (Download)** <br> <br>
 There are some bugs in the v0.1 Player code; some sounds sound strange compared to the original HSC notes (BUG exists, will be fixed). <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** <br><br>
@@ -25,5 +28,4 @@ you don't hear the sound of the notes... but now you will :-)
 
 <br> <br>
 
-<img width="755" height="1044" alt="hsc_tracker" src="https://github.com/user-attachments/assets/1b83e41d-3839-4944-a694-784d8599e7d4" />
 
