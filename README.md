@@ -21,7 +21,7 @@ hsctrak.exe hscmusic.hsc <ENTER><br><br>
 
 ________________________________________________________________________
 
-■ **HELP / KEYS :** 
+■ **HELP / KEYS (v1.5) :** 
 <br>
 1=key-off cell(===) ■ Ins=instrument-change cell ■ Del=Delete ■ Bksp=Clear up <br>
 Space=Toggle EDIT(record at cursor)/JAM(play only, 9 voice polyphony) <br>
