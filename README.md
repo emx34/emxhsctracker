@@ -32,7 +32,7 @@ Shift-Up/Down: select rows in this column ■ Ctrl-C Copy ■ Ctrl-V Paste <br>
 Ctrl-Home: UNDO ■ Ctrl-End: REDO (64 steps, this pattern's edits) <br>
 F4: Goto Pattern-Order-List & Order-List-Menu-Key: Up/Down/Ins/Del/J/ENTER <br>
 On effect columns type HEX digits Effects: <br>
---- 01 PttrnBreak ■ 1x/2x Slide UP/DOWN(x+1) ■ Ax/Bx/Cx carrier/mod/ins vol(x*4) <br>
+--- 01 Pattern Break ■ 1x/2x Slide UP/DOWN(x+1) ■ Ax/Bx/Cx carrier/mod/ins vol(x*4) <br>
 --- Fx Speed=x+1 Ticks/Row(18.2 Hz) ■ other codes act as speed (HSCOBJ quirk) <br>
 <br>
 F1 HELP Menu ■ **F2 MAIN-SCREEN** ■ F3 Instrument Menu ■ F4 Pattern-Order-List-Menu <br>
