@@ -38,7 +38,7 @@ On effect columns type HEX digits Effects: <br>
 F1 HELP Menu ■ **F2 MAIN-SCREEN** ■ F3 Instrument Menu ■ F4 Pattern-Order-List-Menu <br>
 F5 PlaySong ■ F6 PlayPattern ■ F7 Play CursorRow ■ F8 STOP ■ Scroll:F follow <br>
 F9 LOAD (HSC or .INC 'DB' text) ■ F10 SAVE (.INC ext -> text, else raw) <br>
-Ctrl-Alt-C: CLEAR Pattern+Reset_Cursor ■ RIGHT-Shift + 1 2 3 4 5 6 7 8 9: MUTE/UN-MUTE Channels <br>
+Ctrl-Alt-C: CLEAR/DELETE ALL Pattern Table ■ RIGHT-Shift + 1 2 3 4 5 6 7 8 9: MUTE/UN-MUTE Channels <br>
 Ctrl-E Echo ■ Ctrl-R Reverb(3DecayingRepeats) ■ Ctrl-F FADE-Out(ramps volume) <br>
 Instrument Screen: Ctrl-P Load Presets ■ Ctrl-S Save Inst. ■ Ctrl-L Load Inst. <br>
 
