@@ -23,25 +23,22 @@ ________________________________________________________________________
 
 ■ **HELP / KEYS :** 
 <br> <br>
-NoteKeys: Z S X D C V G B H N J M , L . = C C# D D# E F F# G G# A A# B C C# D
-          Q 2 W 3 E R 5 T 6 Y 7 U I 9 O 0 P = one octave higher
--------------------------------------------------------------------------------
-1=key-off cell(===) þ Ins=instrument-change cell þ Del=Delete þ Bksp=Clear+UP
+1=key-off cell(===) ■ Ins=instrument-change cell ■ Del=Delete ■ Bksp=Clear+UP
 Space=Toggle EDIT(record at cursor)/JAM(play only, 9 voice polyphony)
-F11/F12 Octave Down/Up þ KeyPad+ - Instrument Next/Prev þ KP/ * Pattrn Prev/Next
-PgUp/PgDn (16 rows) þ Home/End, Tab / Shift-Tab (channel)",
+F11/F12 Octave Down/Up ■ KeyPad+ - Instrument Next/Prev ■ KP/ * Pattrn Prev/Next
+PgUp/PgDn (16 rows) ■ Home/End, Tab / Shift-Tab (channel)",
 Shift-Ins/Del: insert/delete a row in this channel only (rest shift down/up)
-Shift-Up/Down: select rows in this column þ Ctrl-C Copy þ Ctrl-V Paste
-Ctrl-Home: UNDOÿþ  Ctrl-End: REDO (64 steps, this pattern's edits)
+Shift-Up/Down: select rows in this column ■ Ctrl-C Copy ■ Ctrl-V Paste
+Ctrl-Home: UNDO ■ Ctrl-End: REDO (64 steps, this pattern's edits)
 F4: Goto Pattern-Order-List & Order-List-Menu-Key: Up/Down/Ins/Del/J/ENTER
 On effect columns type HEX digits Effects:
---- 01 PttrnBreak þ 1x/2x Slide UP/DOWN(x+1) þ Ax/Bx/Cx carrier/mod/ins vol(x*4)
---- Fx Speed=x+1 Ticks/Row(18.2 Hz) þ other codes act as speed (HSCOBJ quirk)
-F5 PlaySong þ F6 PlayPattern þ F7 Play CursorRow þ F8 STOP þ Scroll:F follow
-F9 LOAD (HSC or .INC 'DB' text) þ F10 SAVE (.INC ext -> text, else raw)
-Ctrl-Alt-C CLEAR Pattern+Reset_Cursor þ R-Shift+1..9: MUTE/UN-MUTE Channel
-Ctrl-E Echo þ Ctrl-R Reverb(3DecayingRepeats) þ Ctrl-F FADE-Out(ramps volume)
-Instrument Screen: Ctrl-P Load Presets þ Ctrl-S Save Inst. þ Ctrl-L Load Inst.
+--- 01 PttrnBreak ■ 1x/2x Slide UP/DOWN(x+1) ■ Ax/Bx/Cx carrier/mod/ins vol(x*4)
+--- Fx Speed=x+1 Ticks/Row(18.2 Hz) ■ other codes act as speed (HSCOBJ quirk)
+F5 PlaySong ■ F6 PlayPattern ■ F7 Play CursorRow ■ F8 STOP ■ Scroll:F follow
+F9 LOAD (HSC or .INC 'DB' text) ■ F10 SAVE (.INC ext -> text, else raw)
+Ctrl-Alt-C CLEAR Pattern+Reset_Cursor ■ R-Shift+1..9: MUTE/UN-MUTE Channel
+Ctrl-E Echo ■ Ctrl-R Reverb(3DecayingRepeats) ■ Ctrl-F FADE-Out(ramps volume)
+Instrument Screen: Ctrl-P Load Presets ■ Ctrl-S Save Inst. ■ Ctrl-L Load Inst.
 
 
 
