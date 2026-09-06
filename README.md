@@ -8,7 +8,7 @@ There are some bugs in the v0.1 Player code; some sounds sound strange compared 
 <br>
 
 **<ins>v1.5 almost READY.<ins>** ***Player/Tracker ADSR+Reverb/Hall-FX restored, new Pattern-Order-Table-Window added(Right-Menu), <br> 
- ***BUG-FIXED Full Original HSC compatible version & support for doofus tbs adlib music files is on the way(Estimated new version 1.6-1.7)*** <br>
+ ***BUG-FIXED Full Original HSC compatible version & support for doofus tbs adlib files is on the way(Estimated new version 1.6-1.7)*** <br>
  ***■ New features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** 
  <br> <br>
 **F1 = HELP**
