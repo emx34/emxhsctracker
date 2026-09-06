@@ -37,6 +37,7 @@ Note keys:  Z S X D C V G B H N J M , L .   = C C# D D# E F F# G G# A A# B C C# 
  On effect columns type hex digits.  Effects:",
  - 01 pattern break   1x/2x slide up/down (x+1)   Ax/Bx/Cx carrier/mod/ins volume (x*4)
  - Fx speed = x+1 ticks/row (18.2 Hz)   other codes act as speed (HSCOBJ quirk)
+<br>
  F5 play song  F6 play pattern  F7 play from cursor row  F8 stop  Scroll: F  follow
  F9 load (.HSC raw or .INC 'DB' text)   F10 save (.INC ext -> text, else raw)
  Ctrl-Alt-C clear pattern+reset cursor   R-Shift+1..9: mute/un-mute channel
