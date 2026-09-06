@@ -34,7 +34,8 @@ F4: Goto Pattern-Order-List & Order-List-Menu-Key: Up/Down/Ins/Del/J/ENTER <br>
 On effect columns type HEX digits Effects: <br>
 --- 01 PttrnBreak ■ 1x/2x Slide UP/DOWN(x+1) ■ Ax/Bx/Cx carrier/mod/ins vol(x*4) <br>
 --- Fx Speed=x+1 Ticks/Row(18.2 Hz) ■ other codes act as speed (HSCOBJ quirk) <br>
-F1 HELP Menu ■ F2 Instrument Menu <br>
+<br>
+F1 HELP Menu ■ F2 MAIN-(Pattern)-SCREEN  ■ F3 Instrument Menu ■ F4 Pattern-Order-Menu <br>
 F5 PlaySong ■ F6 PlayPattern ■ F7 Play CursorRow ■ F8 STOP ■ Scroll:F follow <br>
 F9 LOAD (HSC or .INC 'DB' text) ■ F10 SAVE (.INC ext -> text, else raw) <br>
 Ctrl-Alt-C CLEAR Pattern+Reset_Cursor ■ R-Shift+1..9: MUTE/UN-MUTE Channel <br>
