@@ -9,7 +9,7 @@ There are some bugs in the v0.1 Player code; some sounds sound strange compared 
  ***BUG-FIXED Full Original HSC compatible version & support for doofus tbs adlib music files is on the way(Estimated new version 1.6-1.7)*** <br>
  *** ■ New features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** 
  <br> <br>
-Currently, there are issues with sound tone differences in the tracker player code compared to the original HSC player;
+Currently (v0.1) , there are issues with sound tone differences in the tracker player code compared to the original HSC player..
 <br><br>
 F1 = HELP
 <br><br>
