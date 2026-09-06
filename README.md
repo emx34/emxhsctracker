@@ -25,7 +25,7 @@ ________________________________________________________________________
 <br>
 1=key-off cell(===) ■ Ins=instrument-change cell ■ Del=Delete ■ Bksp=Clear+UP <br>
 Space=Toggle EDIT(record at cursor)/JAM(play only, 9 voice polyphony) <br>
-F11/F12 Octave Down/Up ■ KeyPad+ - Instrument Next/Prev ■ KP/ * Pattrn Prev/Next <br>
+F11/F12 Octave Down/Up ■ KeyPad + - Instrument Next/Prev ■ KeyPad / * Pattrn Prev/Next <br>
 PgUp/PgDn (16 rows) ■ Home/End, Tab / Shift-Tab (channel) <br>
 Shift-Ins/Del: insert/delete a row in this channel only (rest shift down/up) <br>
 Shift-Up/Down: select rows in this column ■ Ctrl-C Copy ■ Ctrl-V Paste <br>
