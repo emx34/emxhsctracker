@@ -1,5 +1,5 @@
 
-<img width="902" height="1077" alt="emxhsctracker" src="https://github.com/user-attachments/assets/1540a26d-743d-44f1-8aa8-b7e9c9caed75" />
+<img width="902" height="1077" alt="emxhsctracker" src="https://github.com/user-attachments/assets/abf0fd48-22fc-448b-9e84-09d7d2d445ef" />
 
 █ **emxhsctracker 0.1 alpha-TEST-version (Download)** <br> <br>
 There are some bugs in the v0.1 Player code; some sounds sound strange compared to the original HSC notes (BUG exists, will be fixed). <br> <br>
