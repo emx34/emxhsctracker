@@ -21,14 +21,28 @@ hsctrak.exe hscmusic.hsc <ENTER><br><br>
 
 ________________________________________________________________________
 
-■ **A simple, easy-to-use HSC Tracker** <br> <br>
-This HSC tracker, unlike the original HSC tracker, allows you to hear the instrument sound corresponding to a note as you press keys on the keyboard while writing notes, 
-which is a very important point. In the original HSC tracker, when writing notes, you only enter hexadecimal values ​​for patterns, but you don't hear the sound. In the original HSC tracker, 
-the sound is only heard when you press PLAY after entering numbers, and you can't experiment with sounds until that point. In my HSC-compatible tracker project, 
-you can experiment with sounds from the keyboard while writing music notation codes, and if you don't like it, you can delete it by pressing DEL and write a new one.
-<br>I think one of the main reasons why decent new music hasn't been made on the original HSC tracker until now is this: when you press keys on the keyboard to write music code, 
-you don't hear the sound of the notes... but now you will :-)
-
+■ **HELP / KEYS :** 
 <br> <br>
+Note keys:  Z S X D C V G B H N J M , L .   = C C# D D# E F F# G G# A A# B C C# D
+            Q 2 W 3 E R 5 T 6 Y 7 U I 9 O 0 P = one octave higher
+ A key sounds as long as it is held (release -> OPL release phase)
+ 1 = key-off cell (===)   Ins = instrument-change cell   Del = clear   Bksp = clear+up
+ Space = toggle EDIT (record at cursor) / JAM (play only, 9 voice polyphony)
+ F11/F12 octave down/up   KP+ / KP- instrument next/prev   KP/ / KP* pattern Prev/Next
+ Arrows, PgUp/PgDn (16 rows), Home/End, Tab / Shift-Tab (channel)",
+ Shift-Ins/Del: insert/delete a row in this channel only (rest shift down/up)
+ Shift-Up/Down: select rows in this column   Ctrl-C copy   Ctrl-V paste (overwrites)   Esc cancels selection
+ Ctrl-Home: undo   Ctrl-End: redo   (64 steps, this pattern's edits)
+ F4: focus to/from the order list (right)  Enter there loads that pattern  Up/Down/Ins/Del/J edit it
+ On effect columns type hex digits.  Effects:",
+ - 01 pattern break   1x/2x slide up/down (x+1)   Ax/Bx/Cx carrier/mod/ins volume (x*4)
+ - Fx speed = x+1 ticks/row (18.2 Hz)   other codes act as speed (HSCOBJ quirk)
+ F5 play song  F6 play pattern  F7 play from cursor row  F8 stop  Scroll: F  follow
+ F9 load (.HSC raw or .INC 'DB' text)   F10 save (.INC ext -> text, else raw)
+ Ctrl-Alt-C clear pattern+reset cursor   R-Shift+1..9: mute/un-mute channel
+ Ctrl-E echo   Ctrl-R reverb (3 decaying repeats)   Ctrl-F fade-out (ramps volume)
+ Instrument screen: Ctrl-P preset   Ctrl-S save instrument   Ctrl-L load instrument
+
+
 
 
