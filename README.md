@@ -23,7 +23,7 @@ ________________________________________________________________________
 
 ■ **HELP / KEYS :** 
 <br>
-1=key-off cell(===) ■ Ins=instrument-change cell ■ Del=Delete ■ Bksp=Clear+UP <br>
+1=key-off cell(===) ■ Ins=instrument-change cell ■ Del=Delete ■ Bksp=Clear up <br>
 Space=Toggle EDIT(record at cursor)/JAM(play only, 9 voice polyphony) <br>
 F11/F12 Octave Down/Up ■ KeyPad + - Instrument Next/Prev ■ KeyPad / * Pattrn Prev/Next <br>
 PgUp/PgDn (16 rows) ■ Home/End, Tab / Shift-Tab (channel) <br>
