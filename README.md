@@ -6,7 +6,7 @@ There are some bugs in the v0.1 Player code; some sounds sound strange compared 
 <br> There were BUGs(v0.1), but they have been fixed in the new version!(v1.5) <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** <br><br>
 **<ins>v1.5 almost READY.<ins>** ***Player/Tracker ADSR+Reverb/Hall-FX restored, new Pattern order table window added, <br> 
- ***BUG-FIXED Full Original HSC compatible version & (Estimated new version 1.6-1.7) support for doofus tbs adlib music files is on the way.***
+ ***BUG-FIXED Full Original HSC compatible version & support for doofus tbs adlib music files is on the way(Estimated new version 1.6-1.7)***
 <br> <br>
 Currently, there are issues with sound tone differences in the tracker player code compared to the original HSC player;
 <br><br>
