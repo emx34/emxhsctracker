@@ -1,10 +1,11 @@
 
-<img width="755" height="1044" alt="hsc_tracker" src="https://github.com/user-attachments/assets/1b83e41d-3839-4944-a694-784d8599e7d4" />
+<img width="902" height="1077" alt="emxhsctracker" src="https://github.com/user-attachments/assets/1540a26d-743d-44f1-8aa8-b7e9c9caed75" />
 
 █ **emxhsctracker 0.1 alpha-TEST-version (Download)** <br> <br>
 There are some bugs in the v0.1 Player code; some sounds sound strange compared to the original HSC notes (BUG exists, will be fixed). <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** <br><br>
-**<ins>v1.0a almost READY.<ins>** ***Player/Tracker ADSR+Reverb/Hall-FX restored, BUG-FIXED! Full Original compatible version***
+**<ins>v1.5 almost READY.<ins>** ***Player/Tracker ADSR+Reverb/Hall-FX restored, new Pattern Order window added , BUG-FIXED** <br>
+***Full Original HSC compatible version - & - support for doofus tbs adlib music files is on the way.***
 <br> <br>
 Currently, there are issues with sound tone differences in the tracker player code compared to the original HSC player;
 <br><br>
