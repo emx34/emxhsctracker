@@ -11,7 +11,7 @@ There are some bugs in the v0.1 Player code; some sounds sound strange compared 
  ***BUG-FIXED Full Original HSC compatible version & support for doofus tbs adlib music files is on the way(Estimated new version 1.6-1.7)*** <br>
  ***■ New features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** 
  <br> <br>
-F1 = HELP
+**F1 = HELP**
 <br><br>
 ~ usage syntax options:
 <br><br>
