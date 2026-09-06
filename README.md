@@ -23,26 +23,26 @@ ________________________________________________________________________
 
 ■ **HELP / KEYS :** 
 <br> <br>
-Note keys:  Z S X D C V G B H N J M , L .   = C C# D D# E F F# G G# A A# B C C# D
-            Q 2 W 3 E R 5 T 6 Y 7 U I 9 O 0 P = one octave higher
- A key sounds as long as it is held (release -> OPL release phase)
- 1 = key-off cell (===)   Ins = instrument-change cell   Del = clear   Bksp = clear+up
- Space = toggle EDIT (record at cursor) / JAM (play only, 9 voice polyphony)
- F11/F12 octave down/up   KP+ / KP- instrument next/prev   KP/ / KP* pattern Prev/Next
- Arrows, PgUp/PgDn (16 rows), Home/End, Tab / Shift-Tab (channel)",
- Shift-Ins/Del: insert/delete a row in this channel only (rest shift down/up)
- Shift-Up/Down: select rows in this column   Ctrl-C copy   Ctrl-V paste (overwrites)   Esc cancels selection
- Ctrl-Home: undo   Ctrl-End: redo   (64 steps, this pattern's edits)
- F4: focus to/from the order list (right)  Enter there loads that pattern  Up/Down/Ins/Del/J edit it
- On effect columns type hex digits.  Effects:",
- - 01 pattern break   1x/2x slide up/down (x+1)   Ax/Bx/Cx carrier/mod/ins volume (x*4)
- - Fx speed = x+1 ticks/row (18.2 Hz)   other codes act as speed (HSCOBJ quirk)
-<br>
- F5 play song  F6 play pattern  F7 play from cursor row  F8 stop  Scroll: F  follow
- F9 load (.HSC raw or .INC 'DB' text)   F10 save (.INC ext -> text, else raw)
- Ctrl-Alt-C clear pattern+reset cursor   R-Shift+1..9: mute/un-mute channel
- Ctrl-E echo   Ctrl-R reverb (3 decaying repeats)   Ctrl-F fade-out (ramps volume)
- Instrument screen: Ctrl-P preset   Ctrl-S save instrument   Ctrl-L load instrument
+NoteKeys: Z S X D C V G B H N J M , L . = C C# D D# E F F# G G# A A# B C C# D
+          Q 2 W 3 E R 5 T 6 Y 7 U I 9 O 0 P = one octave higher
+-------------------------------------------------------------------------------
+1=key-off cell(===) þ Ins=instrument-change cell þ Del=Delete þ Bksp=Clear+UP
+Space=Toggle EDIT(record at cursor)/JAM(play only, 9 voice polyphony)
+F11/F12 Octave Down/Up þ KeyPad+ - Instrument Next/Prev þ KP/ * Pattrn Prev/Next
+PgUp/PgDn (16 rows) þ Home/End, Tab / Shift-Tab (channel)",
+Shift-Ins/Del: insert/delete a row in this channel only (rest shift down/up)
+Shift-Up/Down: select rows in this column þ Ctrl-C Copy þ Ctrl-V Paste
+Ctrl-Home: UNDOÿþ  Ctrl-End: REDO (64 steps, this pattern's edits)
+F4: Goto Pattern-Order-List & Order-List-Menu-Key: Up/Down/Ins/Del/J/ENTER
+On effect columns type HEX digits Effects:
+--- 01 PttrnBreak þ 1x/2x Slide UP/DOWN(x+1) þ Ax/Bx/Cx carrier/mod/ins vol(x*4)
+--- Fx Speed=x+1 Ticks/Row(18.2 Hz) þ other codes act as speed (HSCOBJ quirk)
+F5 PlaySong þ F6 PlayPattern þ F7 Play CursorRow þ F8 STOP þ Scroll:F follow
+F9 LOAD (HSC or .INC 'DB' text) þ F10 SAVE (.INC ext -> text, else raw)
+Ctrl-Alt-C CLEAR Pattern+Reset_Cursor þ R-Shift+1..9: MUTE/UN-MUTE Channel
+Ctrl-E Echo þ Ctrl-R Reverb(3DecayingRepeats) þ Ctrl-F FADE-Out(ramps volume)
+Instrument Screen: Ctrl-P Load Presets þ Ctrl-S Save Inst. þ Ctrl-L Load Inst.
+
 
 
 
