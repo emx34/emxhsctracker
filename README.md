@@ -25,7 +25,6 @@ Space=Toggle EDIT(record at cursor)/JAM(play only, 9 voice polyphony) <br>
 F11/F12 Octave Down/Up ■ KeyPad + - Instrument Next/Prev ■ KeyPad / * Pattrn Prev/Next <br>
 PgUp/PgDn (16 rows) ■ Home/End, Tab / Shift-Tab (channel) <br>
 Shift-Ins/Del: insert/delete a row in this channel only (rest shift down/up) <br>
-Shift-Up/Down: select rows in this column ■ Ctrl-C Copy ■ Ctrl-V Paste <br>
 F4: Goto Pattern-Order-List & Order-List-Menu-Key: Up/Down/Ins/Del/J/ENTER <br>
 On effect columns type HEX digits Effects: <br>
 --- 01 Pattern Break ■ 1x/2x Slide UP/DOWN(x+1) ■ Ax/Bx/Cx carrier/mod/ins vol(x*4) <br>
@@ -44,6 +43,7 @@ On effect columns type HEX digits Effects: <br>
 ■ **Ctrl-Alt-C: CLEAR/DELETE ALL Pattern Table** <br>
 ■ **Ctrl-Home: UNDO & Ctrl-End: REDO** <br>
 ■ **RIGHT-Shift + 1 2 3 4 5 6 7 8 9: MUTE/UN-MUTE Channels** <br>
+■ **Shift-Up/Down: select rows in this column ■ Ctrl-C Copy ■ Ctrl-V Paste <br>
 Instrument Menu Screen(F3): <br>
 ■ Ctrl-P Load Presets Instruments <br>
 ■ Ctrl-S Save Inst. <br>
