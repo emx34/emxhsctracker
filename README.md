@@ -43,8 +43,9 @@ On effect columns type HEX digits Effects: <br>
 ■ **F9 LOAD** <br>
 ■ **F10 SAVE** <br>
 ■  Ctrl-Alt-C: CLEAR/DELETE ALL Pattern Table <br>
-■ RIGHT-Shift + 1 2 3 4 5 6 7 8 9: MUTE/UN-MUTE Channels <br>
-Instrument Menu Screen: Ctrl-P Load Presets List <br>
+■ **RIGHT-Shift + 1 2 3 4 5 6 7 8 9: MUTE/UN-MUTE Channels** <br>
+Instrument Menu Screen(F3): <br>
+■ Ctrl-P Load Presets List <br>
 ■ Ctrl-S Save Inst. <br>
 ■ Ctrl-L Load Inst. <br>
 Note effects: ((Apply it while on the note cell)) <br>
