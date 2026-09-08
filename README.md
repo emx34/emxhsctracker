@@ -4,8 +4,6 @@
 █ **emxhsctracker v1.5 FIRST-TEST-DRIVE-Version (Download)** <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** <br>
 <br>
-<br>
-***Player/Tracker ADSR+Reverb/Hall-FX restored, new Pattern-Order-Table-Window added(Right-Menu), <br> 
  ***BUG-FIXED Full Original HSC compatible version*** <br> 
  ***■ New features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** 
   ***NOT READY YET >>> Support for doofus tbs adlib files is on the way(Estimated new version 1.6-1.7)*** <br>
