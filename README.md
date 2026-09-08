@@ -43,7 +43,7 @@ Instrument Menu Screen: Ctrl-P Load Presets List ■ Ctrl-S Save Inst. ■ Ctrl-
 Note effects: ((Apply it while on the note cell)) <br>
 Ctrl-E Echo ■ Ctrl-R Reverb(3DecayingRepeats) ■ Ctrl-F FADE-Out(ramps volume)** <br>
 **On the main screen, while on any note cell in the Pattern table, you select a cell** <br>
-**by using the right SHIFT + Up/Down Arrow keys. Then, after copying the selected notes with CTRL+C=Copy,** <br>
+**by using the RIGHTSHIFT+UP/DOWN-Arrow keys. Then, after copying the selected notes with CTRL+C=Copy,** <br>
 **you can paste them into the target cell using CTRL+P=Paste.** <br>
 
 
