@@ -6,7 +6,7 @@
 <br>
  ***BUG-FIXED Full Original HSC compatible version*** <br> 
  ***■ New features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** <br> 
- ***NOT READY YET >>> Support for doofus tbs adlib files is on the way(Estimated new version 1.6-1.7)*** <br>
+ ***NOT READY YET >>> Support for doofus tbs adlib files is on the way(Estimated new version 1.6 or 1.7)*** <br>
  <br> <br>
 **F1 = HELP**
 <br><br>
