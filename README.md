@@ -1,5 +1,5 @@
 
-<img width="902" height="1077" alt="emxhsctracker" src="https://github.com/user-attachments/assets/abf0fd48-22fc-448b-9e84-09d7d2d445ef" />
+<img width="936" height="1148" alt="emxhsctracker" src="https://github.com/user-attachments/assets/a9d61541-4d21-4cbc-9a12-10e90ab4c5fc" />
 
 █ **emxhsctracker v1.5 FIRST-TEST-DRIVE-Version (Download)** <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** <br>
