@@ -35,11 +35,21 @@ On effect columns type HEX digits Effects: <br>
 --- 01 Pattern Break ■ 1x/2x Slide UP/DOWN(x+1) ■ Ax/Bx/Cx carrier/mod/ins vol(x*4) <br>
 --- Fx Speed=x+1 Ticks/Row(18.2 Hz) ■ other codes act as speed (HSCOBJ quirk) <br>
 <br>
-F1 HELP Menu ■ **F2 MAIN-SCREEN** ■ F3 Instrument Menu ■ F4 Pattern-Order-List-Menu <br>
-**F5 PlaySong** ■ F6 PlayPattern ■ F7 PlayCursorRow ■ **F8 STOP** <br>
-**F9 LOAD ■ F10 SAVE** <br>
-Ctrl-Alt-C: CLEAR/DELETE ALL Pattern Table ■ RIGHT-Shift + 1 2 3 4 5 6 7 8 9: MUTE/UN-MUTE Channels <br>
-Instrument Menu Screen: Ctrl-P Load Presets List ■ Ctrl-S Save Inst. ■ Ctrl-L Load Inst. <br>
+■ **F1 HELP Menu** <br>
+■ **F2 MAIN-SCREEN** <br>
+■ **F3 Instrument Menu** <br>
+■ **F4 Pattern-Order-List-Menu** <br>
+■ **F5 PlaySong** <br>
+■ **F6 PlayPattern** <br>
+■ **F7 PlayCursorRow** <br>
+■ **F8 STOP** <br>
+■ **F9 LOAD** <br>
+■ **F10 SAVE** <br>
+■  Ctrl-Alt-C: CLEAR/DELETE ALL Pattern Table <br>
+■ RIGHT-Shift + 1 2 3 4 5 6 7 8 9: MUTE/UN-MUTE Channels <br>
+Instrument Menu Screen: Ctrl-P Load Presets List <br>
+■ Ctrl-S Save Inst. <br>
+■ Ctrl-L Load Inst. <br>
 Note effects: ((Apply it while on the note cell)) <br>
 Ctrl-E Echo ■ Ctrl-R Reverb(3DecayingRepeats) ■ Ctrl-F FADE-Out(ramps volume)** <br>
 **On the main screen, while on any note cell in the Pattern table, you select a cell** <br>
