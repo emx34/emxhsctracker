@@ -12,9 +12,9 @@
 <br><br>
 ~ usage syntax options:
 <br><br>
-hsctrak.exe   <ENTER><br>
+hsctrack.exe   <ENTER><br>
 or <br>
-hsctrak.exe hscmusic.hsc <ENTER><br><br>
+hsctrack.exe hscmusic.hsc <ENTER><br><br>
 
 ________________________________________________________________________
 
