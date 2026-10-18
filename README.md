@@ -1,4 +1,4 @@
-# █ ***Version 1.7 READY to DOWNLOAD :-)*** <br>
+# █ ***Version 1.7 READY to DOWNLOAD*** <br>
 <img width="855" height="509" alt="Doofus_Screen_4" src="https://github.com/user-attachments/assets/ee37defa-47ad-4151-b74b-1a2c43bc79d6" />
 ________________________________________________________________________
 <br> <br>
