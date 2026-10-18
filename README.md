@@ -2,7 +2,7 @@
 <img width="801" height="526" alt="Doofus_Screen_2" src="https://github.com/user-attachments/assets/581065d8-512c-4ae7-9c00-2402006dd33c" />
 ________________________________________________________________________
 <br> <br>
-<img width="801" height="558" alt="Doofus_Screen_3" src="https://github.com/user-attachments/assets/145c1c35-9286-4b13-a484-a9f2dc532515" />
+<img width="801" height="558" alt="Doofus_Screen_4" src="https://github.com/user-attachments/assets/11ba8107-daab-45e7-8a88-adca6b7b3487" />
 
 # █ **emxhsctracker v1.5 FIRST-TEST-DRIVE-Version (Download)** <br> <br>
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** <br>
