@@ -5,7 +5,7 @@ ________________________________________________________________________
 <img width="902" height="1077" alt="emxhsctracker" src="https://github.com/user-attachments/assets/4c559316-75b7-473b-b1db-06fdac7d22df" />
 <br>
 # █ **emxhsctracker v1.5 FIRST-TEST-DRIVE-Version (Download)** <br> <br>
-***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** <br>
+***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** 
 <br>
  ***BUG-FIXED Full Original HSC compatible version*** <br> 
  ***■ New features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** <br> 
