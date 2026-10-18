@@ -1,4 +1,4 @@
-# █ ***Version 1.7 NOT ready yet .. NOT released yet ..*** <br> <br>
+# █ ***Version 1.7 NOT ready yet .. NOT released yet ..*** <br>
 <img width="801" height="526" alt="Doofus_Screen_2" src="https://github.com/user-attachments/assets/967b0097-6660-43db-a937-45aa92f8df1c" />
 ________________________________________________________________________
 
