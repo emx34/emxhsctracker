@@ -17,8 +17,8 @@ ________________________________________________________________________
 <br><br>
 hsctrack.exe   <ENTER><br>
 or <br>
-hsctrack.exe hscmusic.hsc <ENTER><br><br>
-
+hsctrack.exe hscmusic.hsc <ENTER>
+<br>
 ________________________________________________________________________
 
 ■ **HELP / KEYS (v1.5) :** <br>
