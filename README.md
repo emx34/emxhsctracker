@@ -61,7 +61,7 @@ Ctrl-E Echo ■ Ctrl-R Reverb(3DecayingRepeats) ■ Ctrl-F FADE-Out(ramps volume
 
 <br> <br>
 
-EMX (eMX!) ____ █  **GREETINGS to friends and people I knew in the past __________________________________________________________** 
+**EMX (eMX!) ____ █ GREETINGS to friends and people I knew in the past __________________________________________________________** 
 <br>
 <br>
 **The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (MeMBeRs & #PC97 IRC friends)** <br>
