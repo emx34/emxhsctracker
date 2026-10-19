@@ -4,6 +4,7 @@ ________________________________________________________________________
 <br> <br>
 <img width="902" height="1077" alt="emxhsctracker" src="https://github.com/user-attachments/assets/bb3aaa4e-4196-4ad7-81fc-69d08be35c80" />
 <br>
+
 # █ **EMXhsctracker v1.7 .HSC + .TBS(Doofus platform game Adlib music files) Supported (Download)** <br> <br>
 
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** 
