@@ -1,5 +1,6 @@
 # █ ***Version 1.7 READY to DOWNLOAD*** <br>
-<img width="914" height="661" alt="Doofus_Screen_3" src="https://github.com/user-attachments/assets/f55ce9f8-9dfc-4b46-a09d-2756046f6e7a" />
+<img width="914" height="661" alt="Doofus_Screen_3" src="https://github.com/user-attachments/assets/438e1fb6-eb31-440f-837b-d9705a7698f0" />
+
 ________________________________________________________________________
 <br> <br>
 <img width="902" height="1077" alt="emxhsctracker" src="https://github.com/user-attachments/assets/bb3aaa4e-4196-4ad7-81fc-69d08be35c80" />
