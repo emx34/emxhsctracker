@@ -5,11 +5,15 @@ ________________________________________________________________________
 <img width="902" height="1077" alt="emxhsctracker" src="https://github.com/user-attachments/assets/bb3aaa4e-4196-4ad7-81fc-69d08be35c80" />
 <br>
 # █ **EMXhsctracker v1.7 .HSC + .TBS(Doofus platform game Adlib music files) Supported (Download)** <br> <br>
+
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** 
+
 <br>
+
  ***BUG-FIXED Full Original HSC compatible version*** <br> 
  ***■ New features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** <br> 
  ***NOT READY YET >>> Support for doofus tbs adlib files ??? It will take a long time.. (Estimated new version 1.6 or 1.7)*** <br>
+ 
  <br>
 **F1 = HELP**
 <br><br>
