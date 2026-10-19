@@ -7,9 +7,6 @@ ________________________________________________________________________
 # █ **EMXhsctracker v1.7 .HSC + .TBS(Doofus platform game Adlib music files) Supported (Download)** <br> <br>
 
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** 
-
-<br>
-
  ***BUG-FIXED Full Original HSC compatible version*** <br> 
  ***■ New features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** <br> 
  ***NOT READY YET >>> Support for doofus tbs adlib files ??? It will take a long time.. (Estimated new version 1.6 or 1.7)*** <br>
