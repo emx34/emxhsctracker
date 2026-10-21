@@ -6,11 +6,15 @@ ________________________________________________________________________
 <img width="902" height="1077" alt="emxhsctracker" src="https://github.com/user-attachments/assets/bb3aaa4e-4196-4ad7-81fc-69d08be35c80" />
 <br>
 
-# █ **EMXHSCTracker v1.7 supported formats: HSC & TBS(Doofus Adlib music files)** <br> <br>
+# █ **EMXHSCTracker v1.7 supported formats: HSC & TBS(Doofus Adlib music files)** 
+<br> <br>
 
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** 
  ***BUG-FIXED Full Original HSC compatible version*** <br> 
- ***■ New features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** <br> 
+ ***NEN features: COPY-PASTE , UNDO-REDO , CHANNEL-MUTE/DEMUTE , INSTRUMENT SAVE/LOAD*** 
+ <br>
+ <br> 
+ **■ Version 1.7e UPDATE: Bidirectionla file-Saving feature added: HSC <---> TBS**
  
  <br>
 **F1 = HELP**
