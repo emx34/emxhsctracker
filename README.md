@@ -7,7 +7,6 @@ ________________________________________________________________________
 <br>
 
 # █ **EMXHSCTracker v1.7 supported formats: HSC & TBS(Doofus Adlib music files)** 
-<br> <br>
 
 ***EMX HSC Adlib Tracker (Full HSC format compatible ADLIB TRACKER PROJECT)*** 
  ***BUG-FIXED Full Original HSC compatible version*** <br> 
