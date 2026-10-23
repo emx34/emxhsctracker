@@ -1,5 +1,5 @@
 # █ ***Version 1.7 READY to DOWNLOAD*** <br>
-<img width="1096" height="845" alt="Doofus_Screen_6" src="https://github.com/user-attachments/assets/de1ee873-d9c2-494f-995d-9528fac03b3b" />
+<img width="1096" height="845" alt="Doofus_Screen_6" src="https://github.com/user-attachments/assets/ff535cad-c03a-4393-bee5-d1daa722033d" />
 
 ________________________________________________________________________
 
