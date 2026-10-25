@@ -1,5 +1,5 @@
 
-# █ ***HSCTracker NEX-GEN v2.0 for Windows***  █ NOT READY YET ! <br>
+# █ ***HSCTracker NEX-GEN v2.0 for Windows*** █ NOT Ready yet! <br>
 <img width="1123" height="702" alt="hsc" src="https://github.com/user-attachments/assets/88ed2860-dc3c-4f1c-ae6b-f168ab3bc0fc" />
 
 
