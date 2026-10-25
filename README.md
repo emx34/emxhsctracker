@@ -1,3 +1,8 @@
+
+# █ ***HSCTracker NEX-GEN v2.0 for Windows*** <br>
+<img width="1123" height="702" alt="hsc" src="https://github.com/user-attachments/assets/88ed2860-dc3c-4f1c-ae6b-f168ab3bc0fc" />
+
+
 # █ ***Version 1.7 READY to DOWNLOAD*** <br>
 <img width="1096" height="845" alt="Doofus_Screen_6" src="https://github.com/user-attachments/assets/ff535cad-c03a-4393-bee5-d1daa722033d" />
 
