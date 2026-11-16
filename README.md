@@ -4,6 +4,7 @@
 
 ***■ You can now save all AdLib music in .WAV format***
 
+________________________________________________________________________
 
 # █ ***Version 1.7 for DOS - READY to DOWNLOAD*** <br>
 <img width="1096" height="845" alt="Doofus_Screen_6" src="https://github.com/user-attachments/assets/ff535cad-c03a-4393-bee5-d1daa722033d" />
