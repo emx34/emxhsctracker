@@ -1,6 +1,7 @@
 
 # █ ***EMXHSCTracker  █ NEX-GEN v2.0 for Windows*** <br>
-<img width="1123" height="702" alt="emx_hsc_nex-gen" src="https://github.com/user-attachments/assets/f2da5eb8-a618-42f0-ae7e-21b5ead3813c" />
+<img width="1123" height="702" alt="hsctrk2" src="https://github.com/user-attachments/assets/b729459b-9672-4ded-ac09-ecfb2e4a27ff" />
+
 
 # █ ***Version 1.7 READY to DOWNLOAD*** <br>
 <img width="1096" height="845" alt="Doofus_Screen_6" src="https://github.com/user-attachments/assets/ff535cad-c03a-4393-bee5-d1daa722033d" />
