@@ -3,6 +3,7 @@
 <img width="1123" height="702" alt="hsctrk2" src="https://github.com/user-attachments/assets/b729459b-9672-4ded-ac09-ecfb2e4a27ff" />
 
 ***■ You can now save all AdLib musics in .WAV format***
+***I am working intensively on the Alien Breed Tower Assault project, which has caused the Tracker project to slow down and come to a halt; in the meantime, I have released the HSCTracker2 for Windows version.***
 
 ________________________________________________________________________
 
