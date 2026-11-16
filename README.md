@@ -2,7 +2,7 @@
 # █ ***EMXHSCTracker  █ NEX-GEN v2.0 for Windows*** <br>
 <img width="1123" height="702" alt="hsctrk2" src="https://github.com/user-attachments/assets/b729459b-9672-4ded-ac09-ecfb2e4a27ff" />
 
-***■ You can now save all AdLib musics in .WAV format*** <br> <br> 
+***■ You can now save all AdLib music files in .WAV format*** <br> <br> 
 ***I am working intensively on the Alien Breed Tower Assault project, which has caused the Tracker project to slow down and come to a halt; in the meantime, I have released the HSCTracker2 for Windows version.I haven’t encountered any bugs in the version 2 code yet, but if any do arise, I will provide an update later.***
 
 ________________________________________________________________________
