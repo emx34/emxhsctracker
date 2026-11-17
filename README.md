@@ -1,5 +1,5 @@
 
-# █ ***EMXHSCTracker  █ NEX-GEN v2.0 for Windows*** <br>
+# █ ***EMXHSCTracker  █ NEX-GEN v2.0b4 for Windows*** <br>
 <img width="1123" height="702" alt="hsctrk2" src="https://github.com/user-attachments/assets/b729459b-9672-4ded-ac09-ecfb2e4a27ff" />
 
 ***■ You can now save all AdLib music files in .WAV format*** <br> <br> 
